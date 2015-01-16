@@ -1,0 +1,27 @@
+{
+  "name": "node-google-dfp",
+  "version": "0.1.5",
+  "description": "Google DFP API Helper Library for NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "googleapis": "^0.7.0",
+    "soap": "0.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ShinyAds",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShinyAds/node-google-dfp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShinyAds/node-google-dfp/issues"
+  },
+  "homepage": "https://github.com/ShinyAds/node-google-dfp",
+  "keywords": [
+    "Google",
+    "DFP"
+  ]
+}
